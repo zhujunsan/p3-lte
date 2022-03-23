@@ -1,0 +1,20 @@
+{
+  "name": "p3-clicker",
+  "version": "1.0.0",
+  "description": "P3 Clicker module for GPD Pocket 3",
+  "main": "index.js",
+  "author": "San",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.9.7",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-nprogress": "^1.9.7",
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-medium-zoom": "^1.1.9",
+    "vuepress-plugin-smooth-scroll": "^0.0.10"
+  },
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  }
+}
