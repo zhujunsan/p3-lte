@@ -52,6 +52,12 @@ P3 LTE 使用 __移远通信__ 的 __LTE EC20-CN__ 模块，支持最大下行�
 <img alt="Demo1" src="../hardware/demo/Demo1.jpg" width="600">
 <img alt="Demo2" src="../hardware/demo/Demo2.jpg" width="600">
 
+Update 20220625: 更换了更合适的天线和外壳
+
+<img alt="Demo1" src="../hardware/demo/Demo6.jpg" width="600">
+<img alt="Demo2" src="../hardware/demo/Demo5.jpg" width="600">
+
+
 外壳采用 3D 打印，模型文件以及 PCB 设计，请访问 [GitHub](https://github.com/zhujunsan/p3-lte) 仓库，查看 hardware 文件夹
 
 ## 其他
